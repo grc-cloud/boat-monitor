@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260725-12-8-直前",
+    "20260725-20-7-直前",
     "20260725-dailyreport"
   ],
   "cands": {
@@ -18,7 +20,7 @@
         "deadline": "18:45",
         "axis": "永田 啓二",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "12-9": {
         "jcd": 12,
@@ -105,8 +107,9 @@
         "rno": 7,
         "deadline": "18:28",
         "axis": "石野 貴之",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "20-10": {
         "jcd": 20,
