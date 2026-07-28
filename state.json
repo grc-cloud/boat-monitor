@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260728-24-10-直前",
     "20260728-dailyreport",
     "20260728-review"
   ],
@@ -68,6 +69,14 @@
         "axis": "前田 将太",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "19:38",
+        "axis": "海野 ゆかり",
+        "verdict": "SKIP",
+        "phase": "直前"
       }
     }
   }
