@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260729-24-10-直前",
     "20260729-dailyreport"
   ],
   "cands": {
@@ -75,6 +76,14 @@
         "axis": "石野 貴之",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "19:38",
+        "axis": "濱野 斗馬",
+        "verdict": "SKIP",
+        "phase": "直前"
       }
     }
   }
