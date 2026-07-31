@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260731-15-10-直前",
     "20260731-dailyreport",
     "20260731-review"
   ],
@@ -123,7 +124,8 @@
         "deadline": "19:38",
         "axis": "川野 芽唯",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 2
       },
       "20-3": {
         "jcd": 20,
