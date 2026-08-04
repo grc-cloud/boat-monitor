@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260804-12-10-直前",
+    "20260804-19-10-直前",
     "20260804-dailyreport"
   ],
   "cands": {
@@ -9,8 +11,8 @@
         "rno": 10,
         "deadline": "19:47",
         "axis": "井本 昌也",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前"
       },
       "19-11": {
         "jcd": 19,
@@ -26,7 +28,8 @@
         "deadline": "19:36",
         "axis": "鈴木 博",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 4
       },
       "21-4": {
         "jcd": 21,
