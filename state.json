@@ -1,4 +1,41 @@
 {
-  "notified": [],
-  "cands": {}
+  "notified": [
+    "20260805-dailyreport"
+  ],
+  "cands": {
+    "20260805": {
+      "19-9": {
+        "jcd": 19,
+        "rno": 9,
+        "deadline": "19:14",
+        "axis": "石丸 海渡",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-11": {
+        "jcd": 19,
+        "rno": 11,
+        "deadline": "20:16",
+        "axis": "森野 正弘",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "12-5": {
+        "jcd": 12,
+        "rno": 5,
+        "deadline": "17:12",
+        "axis": "山田 亮太",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "12-12": {
+        "jcd": 12,
+        "rno": 12,
+        "deadline": "20:38",
+        "axis": "君島 秀三",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      }
+    }
+  }
 }
