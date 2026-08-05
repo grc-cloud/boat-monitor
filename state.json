@@ -1,38 +1,78 @@
 {
   "notified": [
-    "20260805-dailyreport"
+    "20260806-dailyreport"
   ],
   "cands": {
-    "20260805": {
-      "19-9": {
-        "jcd": 19,
-        "rno": 9,
-        "deadline": "19:14",
-        "axis": "石丸 海渡",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "19-11": {
-        "jcd": 19,
+    "20260806": {
+      "18-11": {
+        "jcd": 18,
         "rno": 11,
-        "deadline": "20:16",
-        "axis": "森野 正弘",
+        "deadline": "15:50",
+        "axis": "海野 ゆかり",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "12-5": {
-        "jcd": 12,
+      "24-7": {
+        "jcd": 24,
+        "rno": 7,
+        "deadline": "18:04",
+        "axis": "吉田 一郎",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-11": {
+        "jcd": 24,
+        "rno": 11,
+        "deadline": "20:07",
+        "axis": "白水 勝也",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-5": {
+        "jcd": 19,
         "rno": 5,
-        "deadline": "17:12",
-        "axis": "山田 亮太",
+        "deadline": "17:19",
+        "axis": "重成 一人",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-7": {
+        "jcd": 19,
+        "rno": 7,
+        "deadline": "18:13",
+        "axis": "上平 真二",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-8": {
+        "jcd": 19,
+        "rno": 8,
+        "deadline": "18:43",
+        "axis": "三浦 敬太",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-10": {
+        "jcd": 19,
+        "rno": 10,
+        "deadline": "19:47",
+        "axis": "井本 昌也",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "12-10": {
+        "jcd": 12,
+        "rno": 10,
+        "deadline": "19:25",
+        "axis": "福島 勇樹",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "12-12": {
         "jcd": 12,
         "rno": 12,
-        "deadline": "20:38",
-        "axis": "君島 秀三",
+        "deadline": "20:30",
+        "axis": "水谷 理人",
         "verdict": "CAUTION",
         "phase": "事前"
       }
