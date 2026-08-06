@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260806-19-10-直前",
     "20260806-dailyreport"
   ],
   "cands": {
@@ -57,8 +58,8 @@
         "rno": 10,
         "deadline": "19:47",
         "axis": "井本 昌也",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前"
       },
       "12-10": {
         "jcd": 12,
