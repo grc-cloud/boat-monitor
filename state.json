@@ -1,7 +1,9 @@
 {
   "notified": [
     "20260808-12-5-直前",
+    "20260808-12-6-直前",
     "20260808-18-11-直前",
+    "20260808-19-5-直前",
     "20260808-dailyreport"
   ],
   "cands": {
@@ -43,8 +45,9 @@
         "rno": 5,
         "deadline": "17:22",
         "axis": "井本 昌也",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 2
       },
       "19-6": {
         "jcd": 19,
@@ -84,7 +87,7 @@
         "deadline": "17:27",
         "axis": "春園 功太",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "12-8": {
         "jcd": 12,
