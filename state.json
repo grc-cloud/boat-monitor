@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260808-12-5-直前",
     "20260808-18-11-直前",
     "20260808-dailyreport"
   ],
@@ -74,8 +75,8 @@
         "rno": 5,
         "deadline": "17:01",
         "axis": "北中 元樹",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前"
       },
       "12-6": {
         "jcd": 12,
