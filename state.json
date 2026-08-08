@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260808-18-11-直前",
     "20260808-dailyreport"
   ],
   "cands": {
@@ -139,6 +140,14 @@
         "axis": "溝口 海義也",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "18-11": {
+        "jcd": 18,
+        "rno": 11,
+        "deadline": "15:51",
+        "axis": "倉持 莉々",
+        "verdict": "CAUTION",
+        "phase": "直前"
       }
     }
   }
