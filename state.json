@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260809-12-8-直前",
+    "20260809-15-8-直前",
     "20260809-24-6-直前",
     "20260809-dailyreport"
   ],
@@ -34,8 +36,9 @@
         "rno": 8,
         "deadline": "18:25",
         "axis": "山田 亮太",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 4
       },
       "12-11": {
         "jcd": 12,
@@ -51,7 +54,8 @@
         "deadline": "18:32",
         "axis": "赤坂 俊輔",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 4
       },
       "20-10": {
         "jcd": 20,
