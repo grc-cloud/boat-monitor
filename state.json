@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260810-15-6-直前",
+    "20260810-20-5-直前",
     "20260810-dailyreport"
   ],
   "cands": {
@@ -98,7 +100,7 @@
         "deadline": "17:28",
         "axis": "山田 祐也",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "15-9": {
         "jcd": 15,
@@ -113,8 +115,9 @@
         "rno": 5,
         "deadline": "17:19",
         "axis": "瓜生 正義",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "20-7": {
         "jcd": 20,
