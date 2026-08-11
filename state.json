@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260811-19-5-直前",
+    "20260811-20-10-直前",
     "20260811-dailyreport",
     "20260811-review"
   ],
@@ -35,7 +37,7 @@
         "deadline": "19:30",
         "axis": "谷村 一哉",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "21-1": {
         "jcd": 21,
@@ -123,7 +125,7 @@
         "deadline": "19:49",
         "axis": "瓜生 正義",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       }
     }
   }
