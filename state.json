@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260814-12-5-直前",
     "20260814-dailyreport"
   ],
   "cands": {
@@ -33,8 +34,9 @@
         "rno": 5,
         "deadline": "17:06",
         "axis": "権藤 俊光",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "12-10": {
         "jcd": 12,
