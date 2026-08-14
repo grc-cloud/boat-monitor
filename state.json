@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260814-12-10-直前",
     "20260814-12-5-直前",
     "20260814-dailyreport"
   ],
@@ -43,8 +44,9 @@
         "rno": 10,
         "deadline": "19:36",
         "axis": "木下 翔太",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "21-4": {
         "jcd": 21,
