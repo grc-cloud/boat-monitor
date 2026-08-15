@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260815-12-5-直前",
     "20260815-dailyreport",
     "20260815-review"
   ],
@@ -50,8 +51,9 @@
         "rno": 5,
         "deadline": "17:06",
         "axis": "渋谷 明憲",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "12-10": {
         "jcd": 12,
