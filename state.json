@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260816-12-5-直前",
     "20260816-dailyreport"
   ],
   "cands": {
@@ -42,7 +43,8 @@
         "deadline": "17:06",
         "axis": "濱本 優一",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 3
       },
       "22-12": {
         "jcd": 22,
