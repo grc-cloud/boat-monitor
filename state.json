@@ -1,7 +1,9 @@
 {
   "notified": [
+    "20260817-12-4-直前",
     "20260817-13-10-直前",
     "20260817-22-7-直前",
+    "20260817-22-9-直前",
     "20260817-dailyreport"
   ],
   "cands": {
@@ -19,8 +21,8 @@
         "rno": 4,
         "deadline": "16:37",
         "axis": "権藤 俊光",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前"
       },
       "12-5": {
         "jcd": 12,
@@ -68,7 +70,8 @@
         "deadline": "16:28",
         "axis": "竹井 貴史",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 3
       },
       "15-8": {
         "jcd": 15,
