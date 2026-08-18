@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260818-13-12-直前",
+    "20260818-16-11-直前",
     "20260818-dailyreport"
   ],
   "cands": {
@@ -34,7 +36,7 @@
         "deadline": "16:05",
         "axis": "菅 章哉",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "16-11": {
         "jcd": 16,
@@ -42,7 +44,7 @@
         "deadline": "16:13",
         "axis": "海野 ゆかり",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "15-8": {
         "jcd": 15,
