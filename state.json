@@ -1,6 +1,7 @@
 {
   "notified": [
     "20260819-13-10-直前",
+    "20260819-16-11-直前",
     "20260819-dailyreport"
   ],
   "cands": {
@@ -35,7 +36,8 @@
         "deadline": "16:10",
         "axis": "若狭 奈美子",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 4
       },
       "15-10": {
         "jcd": 15,
