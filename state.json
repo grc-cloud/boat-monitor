@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20260820-19-10-直前",
+    "20260820-20-10-直前",
     "20260820-dailyreport"
   ],
   "cands": {
@@ -26,7 +28,7 @@
         "deadline": "19:48",
         "axis": "白水 勝也",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "19-11": {
         "jcd": 19,
@@ -74,7 +76,7 @@
         "deadline": "19:39",
         "axis": "白神 優",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       }
     }
   }
