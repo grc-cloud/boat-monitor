@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260821-15-7-直前",
     "20260821-dailyreport"
   ],
   "cands": {
@@ -58,7 +59,8 @@
         "deadline": "17:55",
         "axis": "西岡 顕心",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前",
+        "partner": 2
       },
       "15-11": {
         "jcd": 15,
