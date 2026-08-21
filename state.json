@@ -1,6 +1,8 @@
 {
   "notified": [
+    "20260821-15-11-直前",
     "20260821-15-7-直前",
+    "20260821-19-10-直前",
     "20260821-dailyreport"
   ],
   "cands": {
@@ -26,8 +28,9 @@
         "rno": 10,
         "deadline": "19:48",
         "axis": "石橋 道友",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "19-11": {
         "jcd": 19,
@@ -68,7 +71,7 @@
         "deadline": "20:01",
         "axis": "森高 一真",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       }
     }
   }
