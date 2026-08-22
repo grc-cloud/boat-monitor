@@ -1,5 +1,8 @@
 {
   "notified": [
+    "20260822-19-5-直前",
+    "20260822-20-5-直前",
+    "20260822-22-11-直前",
     "20260822-dailyreport"
   ],
   "cands": {
@@ -34,7 +37,7 @@
         "deadline": "17:17",
         "axis": "白水 勝也",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "19-8": {
         "jcd": 19,
@@ -82,15 +85,15 @@
         "deadline": "17:23",
         "axis": "飛田 江己",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "20-5": {
         "jcd": 20,
         "rno": 5,
         "deadline": "17:11",
         "axis": "稲田 浩二",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前"
       },
       "20-8": {
         "jcd": 20,
