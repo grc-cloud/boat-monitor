@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260823-16-11-直前",
     "20260823-16-9-直前",
     "20260823-dailyreport"
   ],
@@ -53,6 +54,14 @@
         "axis": "石田 貴洋",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "16-11": {
+        "jcd": 16,
+        "rno": 11,
+        "deadline": "16:12",
+        "axis": "倉持 莉々",
+        "verdict": "CAUTION",
+        "phase": "直前"
       }
     }
   }
