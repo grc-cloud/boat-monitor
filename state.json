@@ -1,6 +1,8 @@
 {
   "notified": [
     "20260825-13-12-直前",
+    "20260825-20-5-直前",
+    "20260825-22-11-直前",
     "20260825-dailyreport"
   ],
   "cands": {
@@ -27,7 +29,7 @@
         "deadline": "17:20",
         "axis": "高野 哲史",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "15-8": {
         "jcd": 15,
@@ -42,8 +44,9 @@
         "rno": 5,
         "deadline": "17:11",
         "axis": "安河内 将",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 2
       },
       "20-7": {
         "jcd": 20,
