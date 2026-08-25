@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260825-13-12-直前",
     "20260825-dailyreport"
   ],
   "cands": {
@@ -18,7 +19,7 @@
         "deadline": "16:21",
         "axis": "前田 滉",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "22-11": {
         "jcd": 22,
