@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260830-19-10-直前",
     "20260830-dailyreport",
     "20260830-review"
   ],
@@ -27,7 +28,7 @@
         "deadline": "19:39",
         "axis": "池永 太",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "21-4": {
         "jcd": 21,
