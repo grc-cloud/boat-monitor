@@ -1,39 +1,30 @@
 {
   "notified": [
-    "20260907-dailyreport",
-    "20260907-review"
+    "20260908-dailyreport"
   ],
   "cands": {
-    "20260907": {
-      "13-6": {
+    "20260908": {
+      "13-11": {
         "jcd": 13,
-        "rno": 6,
-        "deadline": "13:07",
-        "axis": "渡邊 雄一郎",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "16-11": {
-        "jcd": 16,
         "rno": 11,
-        "deadline": "16:11",
-        "axis": "渋谷 明憲",
+        "deadline": "15:41",
+        "axis": "河村 了",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "22-1": {
-        "jcd": 22,
-        "rno": 1,
-        "deadline": "11:47",
-        "axis": "作間 章",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "22-12": {
-        "jcd": 22,
+      "13-12": {
+        "jcd": 13,
         "rno": 12,
-        "deadline": "17:25",
-        "axis": "新開 航",
+        "deadline": "16:23",
+        "axis": "前田 翔",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-5": {
+        "jcd": 16,
+        "rno": 5,
+        "deadline": "12:50",
+        "axis": "松山 将吾",
         "verdict": "CAUTION",
         "phase": "事前"
       }
