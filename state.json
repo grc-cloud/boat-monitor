@@ -1,31 +1,62 @@
 {
   "notified": [
-    "20260908-dailyreport",
-    "20260908-review"
+    "20260909-dailyreport"
   ],
   "cands": {
-    "20260908": {
-      "13-11": {
-        "jcd": 13,
-        "rno": 11,
-        "deadline": "15:41",
-        "axis": "河村 了",
+    "20260909": {
+      "21-4": {
+        "jcd": 21,
+        "rno": 4,
+        "deadline": "09:50",
+        "axis": "西野 雄貴",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "13-12": {
-        "jcd": 13,
-        "rno": 12,
-        "deadline": "16:23",
-        "axis": "前田 翔",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "16-5": {
-        "jcd": 16,
+      "21-5": {
+        "jcd": 21,
         "rno": 5,
-        "deadline": "12:50",
-        "axis": "松山 将吾",
+        "deadline": "10:18",
+        "axis": "君島 秀三",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-11": {
+        "jcd": 21,
+        "rno": 11,
+        "deadline": "13:34",
+        "axis": "宗行 治哉",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-8": {
+        "jcd": 16,
+        "rno": 8,
+        "deadline": "14:22",
+        "axis": "中山 将",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-11": {
+        "jcd": 16,
+        "rno": 11,
+        "deadline": "16:01",
+        "axis": "和田 兼輔",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-8": {
+        "jcd": 20,
+        "rno": 8,
+        "deadline": "18:33",
+        "axis": "上平 真二",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-11": {
+        "jcd": 20,
+        "rno": 11,
+        "deadline": "20:07",
+        "axis": "嶋 義信",
         "verdict": "CAUTION",
         "phase": "事前"
       }
