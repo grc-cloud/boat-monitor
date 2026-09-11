@@ -1,47 +1,38 @@
 {
   "notified": [
-    "20260911-dailyreport",
-    "20260911-review"
+    "20260912-dailyreport"
   ],
   "cands": {
-    "20260911": {
-      "12-10": {
-        "jcd": 12,
-        "rno": 10,
-        "deadline": "19:25",
-        "axis": "高田 明",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "12-11": {
-        "jcd": 12,
-        "rno": 11,
-        "deadline": "19:58",
-        "axis": "和田 拓也",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
+    "20260912": {
       "21-4": {
         "jcd": 21,
         "rno": 4,
-        "deadline": "09:50",
-        "axis": "下寺 秀和",
+        "deadline": "10:02",
+        "axis": "仲谷 颯仁",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-9": {
+        "jcd": 21,
+        "rno": 9,
+        "deadline": "12:33",
+        "axis": "宗行 治哉",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "21-12": {
         "jcd": 21,
         "rno": 12,
-        "deadline": "14:13",
-        "axis": "西野 雄貴",
+        "deadline": "14:23",
+        "axis": "君島 秀三",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "16-11": {
+      "16-10": {
         "jcd": 16,
-        "rno": 11,
-        "deadline": "16:07",
-        "axis": "篠崎 元志",
+        "rno": 10,
+        "deadline": "15:35",
+        "axis": "池永 太",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -49,15 +40,23 @@
         "jcd": 20,
         "rno": 5,
         "deadline": "17:12",
+        "axis": "今垣 光太郎",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-9": {
+        "jcd": 20,
+        "rno": 9,
+        "deadline": "19:04",
         "axis": "井内 将太郎",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-7": {
+      "20-10": {
         "jcd": 20,
-        "rno": 7,
-        "deadline": "18:04",
-        "axis": "嶋 義信",
+        "rno": 10,
+        "deadline": "19:36",
+        "axis": "田中 和也",
         "verdict": "CAUTION",
         "phase": "事前"
       }
