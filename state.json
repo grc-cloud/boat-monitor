@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260913-19-9-直前",
     "20260913-dailyreport",
     "20260913-review"
   ],
@@ -18,8 +19,9 @@
         "rno": 9,
         "deadline": "19:16",
         "axis": "井上 遥妃",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 2
       },
       "21-4": {
         "jcd": 21,
