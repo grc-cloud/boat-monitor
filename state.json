@@ -1,47 +1,62 @@
 {
   "notified": [
-    "20260916-dailyreport",
-    "20260916-review"
+    "20260917-dailyreport"
   ],
   "cands": {
-    "20260916": {
-      "19-11": {
-        "jcd": 19,
-        "rno": 11,
-        "deadline": "20:16",
-        "axis": "平田 忠則",
+    "20260917": {
+      "24-6": {
+        "jcd": 24,
+        "rno": 6,
+        "deadline": "19:56",
+        "axis": "高野 哲史",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "13-5": {
-        "jcd": 13,
+      "24-11": {
+        "jcd": 24,
+        "rno": 11,
+        "deadline": "22:16",
+        "axis": "溝口 海義也",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-4": {
+        "jcd": 19,
+        "rno": 4,
+        "deadline": "16:47",
+        "axis": "加藤 翔馬",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-5": {
+        "jcd": 19,
         "rno": 5,
-        "deadline": "12:25",
-        "axis": "重成 一人",
+        "deadline": "17:17",
+        "axis": "麻生 慎介",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-6": {
+        "jcd": 19,
+        "rno": 6,
+        "deadline": "17:48",
+        "axis": "井上 遥妃",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "13-6": {
         "jcd": 13,
         "rno": 6,
-        "deadline": "12:55",
-        "axis": "村岡 賢人",
+        "deadline": "12:49",
+        "axis": "萩原 秀人",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "22-1": {
-        "jcd": 22,
-        "rno": 1,
-        "deadline": "11:46",
-        "axis": "豊田 健士郎",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "22-11": {
-        "jcd": 22,
-        "rno": 11,
-        "deadline": "16:54",
-        "axis": "仲口 博崇",
+      "13-12": {
+        "jcd": 13,
+        "rno": 12,
+        "deadline": "16:09",
+        "axis": "山本 隆幸",
         "verdict": "CAUTION",
         "phase": "事前"
       }
