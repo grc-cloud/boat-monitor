@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20260918-15-8-直前",
     "20260918-dailyreport",
     "20260918-review"
   ],
@@ -52,6 +53,15 @@
         "axis": "島田 賢人",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "15-8": {
+        "jcd": 15,
+        "rno": 8,
+        "deadline": "18:41",
+        "axis": "河村 了",
+        "verdict": "SKIP",
+        "phase": "直前",
+        "partner": 4
       }
     }
   }
