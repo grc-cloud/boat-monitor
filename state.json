@@ -1,22 +1,29 @@
 {
   "notified": [
-    "20260928-dailyreport",
-    "20260928-review"
+    "20260929-dailyreport"
   ],
   "cands": {
-    "20260928": {
-      "24-7": {
+    "20260929": {
+      "24-11": {
         "jcd": 24,
-        "rno": 7,
-        "deadline": "20:25",
-        "axis": "西野 翔太",
+        "rno": 11,
+        "deadline": "22:16",
+        "axis": "渡邉 翼",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "19-11": {
+      "24-12": {
+        "jcd": 24,
+        "rno": 12,
+        "deadline": "22:41",
+        "axis": "長尾 章平",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-12": {
         "jcd": 19,
-        "rno": 11,
-        "deadline": "20:15",
+        "rno": 12,
+        "deadline": "20:45",
         "axis": "稲田 浩二",
         "verdict": "CAUTION",
         "phase": "事前"
@@ -25,7 +32,7 @@
         "jcd": 21,
         "rno": 4,
         "deadline": "10:02",
-        "axis": "田口 節子",
+        "axis": "小野 生奈",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -33,7 +40,15 @@
         "jcd": 13,
         "rno": 3,
         "deadline": "11:23",
-        "axis": "森永 隆",
+        "axis": "長谷川 晴哉",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "13-5": {
+        "jcd": 13,
+        "rno": 5,
+        "deadline": "12:21",
+        "axis": "作間 章",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -41,7 +56,15 @@
         "jcd": 13,
         "rno": 7,
         "deadline": "13:38",
-        "axis": "溝口 海義也",
+        "axis": "森永 隆",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "15-7": {
+        "jcd": 15,
+        "rno": 7,
+        "deadline": "17:55",
+        "axis": "岡村 慶太",
         "verdict": "CAUTION",
         "phase": "事前"
       }
