@@ -1,71 +1,38 @@
 {
   "notified": [
-    "20260929-dailyreport",
-    "20260929-review"
+    "20260930-dailyreport"
   ],
   "cands": {
-    "20260929": {
+    "20260930": {
+      "24-7": {
+        "jcd": 24,
+        "rno": 7,
+        "deadline": "20:25",
+        "axis": "渡邉 俊介",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "21:51",
+        "axis": "佐々木 大河",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
       "24-11": {
         "jcd": 24,
         "rno": 11,
         "deadline": "22:16",
-        "axis": "渡邉 翼",
+        "axis": "鶴本 崇文",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "24-12": {
-        "jcd": 24,
-        "rno": 12,
-        "deadline": "22:41",
-        "axis": "長尾 章平",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "19-12": {
-        "jcd": 19,
-        "rno": 12,
-        "deadline": "20:45",
-        "axis": "稲田 浩二",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "21-4": {
-        "jcd": 21,
-        "rno": 4,
-        "deadline": "10:02",
-        "axis": "小野 生奈",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "13-3": {
-        "jcd": 13,
-        "rno": 3,
-        "deadline": "11:23",
-        "axis": "長谷川 晴哉",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "13-5": {
-        "jcd": 13,
-        "rno": 5,
-        "deadline": "12:21",
-        "axis": "作間 章",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "13-7": {
-        "jcd": 13,
-        "rno": 7,
-        "deadline": "13:38",
-        "axis": "森永 隆",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-7": {
+      "15-6": {
         "jcd": 15,
-        "rno": 7,
-        "deadline": "17:55",
-        "axis": "岡村 慶太",
+        "rno": 6,
+        "deadline": "17:29",
+        "axis": "安河内 健",
         "verdict": "CAUTION",
         "phase": "事前"
       }
