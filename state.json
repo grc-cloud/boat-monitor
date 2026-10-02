@@ -1,5 +1,7 @@
 {
   "notified": [
+    "20261002-15-11-直前",
+    "20261002-19-11-直前",
     "20261002-dailyreport",
     "20261002-review"
   ],
@@ -35,7 +37,7 @@
         "deadline": "20:18",
         "axis": "若狭 奈美子",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "12-10": {
         "jcd": 12,
@@ -106,8 +108,9 @@
         "rno": 11,
         "deadline": "20:08",
         "axis": "安河内 健",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       }
     }
   }
