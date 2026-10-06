@@ -1,71 +1,31 @@
 {
   "notified": [
-    "20261005-dailyreport",
-    "20261005-review"
+    "20261006-20-8-直前",
+    "20261006-dailyreport"
   ],
   "cands": {
-    "20261005": {
-      "18-1": {
-        "jcd": 18,
-        "rno": 1,
-        "deadline": "08:47",
-        "axis": "濱野 斗馬",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "18-2": {
-        "jcd": 18,
-        "rno": 2,
-        "deadline": "09:13",
-        "axis": "西岡 顕心",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "18-4": {
-        "jcd": 18,
-        "rno": 4,
-        "deadline": "10:05",
-        "axis": "鈴木 孝明",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "12-7": {
-        "jcd": 12,
-        "rno": 7,
-        "deadline": "17:59",
-        "axis": "三浦 敬太",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "13-4": {
-        "jcd": 13,
-        "rno": 4,
-        "deadline": "12:07",
-        "axis": "金子 賢志",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "22-7": {
-        "jcd": 22,
-        "rno": 7,
-        "deadline": "14:06",
-        "axis": "上村 純一",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "20-5": {
+    "20261006": {
+      "20-8": {
         "jcd": 20,
-        "rno": 5,
-        "deadline": "19:56",
-        "axis": "片橋 幸貴",
+        "rno": 8,
+        "deadline": "21:17",
+        "axis": "内堀 学",
+        "verdict": "CAUTION",
+        "phase": "直前"
+      },
+      "20-10": {
+        "jcd": 20,
+        "rno": 10,
+        "deadline": "22:05",
+        "axis": "大神 康司",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-7": {
+      "20-12": {
         "jcd": 20,
-        "rno": 7,
-        "deadline": "20:53",
-        "axis": "守田 俊介",
+        "rno": 12,
+        "deadline": "22:54",
+        "axis": "細川 裕子",
         "verdict": "CAUTION",
         "phase": "事前"
       }
