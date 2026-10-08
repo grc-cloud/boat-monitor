@@ -1,55 +1,78 @@
 {
   "notified": [
-    "20261008-dailyreport",
-    "20261008-review"
+    "20261009-dailyreport"
   ],
   "cands": {
-    "20261008": {
-      "24-5": {
-        "jcd": 24,
-        "rno": 5,
-        "deadline": "17:09",
-        "axis": "坂元 浩仁",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
+    "20261009": {
       "24-6": {
         "jcd": 24,
         "rno": 6,
         "deadline": "17:34",
-        "axis": "中村 晃朋",
+        "axis": "原田 篤志",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "24-9": {
+      "24-7": {
         "jcd": 24,
+        "rno": 7,
+        "deadline": "18:02",
+        "axis": "山崎 郡",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "19:39",
+        "axis": "坂元 浩仁",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-12": {
+        "jcd": 24,
+        "rno": 12,
+        "deadline": "20:38",
+        "axis": "海野 康志郎",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-9": {
+        "jcd": 16,
         "rno": 9,
-        "deadline": "19:10",
-        "axis": "米丸 乃絵",
+        "deadline": "15:12",
+        "axis": "溝口 海義也",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-4": {
-        "jcd": 20,
-        "rno": 4,
-        "deadline": "19:30",
-        "axis": "細川 裕子",
+      "16-12": {
+        "jcd": 16,
+        "rno": 12,
+        "deadline": "16:50",
+        "axis": "福来 剛",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-5": {
+      "20-7": {
         "jcd": 20,
-        "rno": 5,
-        "deadline": "19:56",
+        "rno": 7,
+        "deadline": "20:53",
+        "axis": "片橋 幸貴",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-9": {
+        "jcd": 20,
+        "rno": 9,
+        "deadline": "21:41",
+        "axis": "内堀 学",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-10": {
+        "jcd": 20,
+        "rno": 10,
+        "deadline": "22:05",
         "axis": "山本 隆幸",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "20-11": {
-        "jcd": 20,
-        "rno": 11,
-        "deadline": "22:30",
-        "axis": "守田 俊介",
         "verdict": "CAUTION",
         "phase": "事前"
       }
