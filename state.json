@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261009-20-7-直前",
     "20261009-dailyreport",
     "20261009-review"
   ],
@@ -58,8 +59,9 @@
         "rno": 7,
         "deadline": "20:53",
         "axis": "片橋 幸貴",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 3
       },
       "20-9": {
         "jcd": 20,
