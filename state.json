@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261018-19-12-直前",
     "20261018-dailyreport",
     "20261018-review"
   ],
@@ -35,7 +36,7 @@
         "deadline": "22:45",
         "axis": "篠崎 元志",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "21-1": {
         "jcd": 21,
