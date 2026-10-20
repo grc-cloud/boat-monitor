@@ -1,31 +1,46 @@
 {
   "notified": [
-    "20261019-dailyreport",
-    "20261019-review"
+    "20261020-dailyreport"
   ],
   "cands": {
-    "20261019": {
-      "18-2": {
-        "jcd": 18,
-        "rno": 2,
-        "deadline": "09:01",
-        "axis": "吉川 喜継",
+    "20261020": {
+      "19-5": {
+        "jcd": 19,
+        "rno": 5,
+        "deadline": "19:30",
+        "axis": "松村 敏",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "18-4": {
-        "jcd": 18,
-        "rno": 4,
-        "deadline": "09:53",
-        "axis": "山田 理央",
+      "19-6": {
+        "jcd": 19,
+        "rno": 6,
+        "deadline": "19:56",
+        "axis": "中村 泰平",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "16-12": {
-        "jcd": 16,
-        "rno": 12,
-        "deadline": "16:47",
-        "axis": "中 亮太",
+      "19-8": {
+        "jcd": 19,
+        "rno": 8,
+        "deadline": "20:59",
+        "axis": "永田 啓二",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-11": {
+        "jcd": 19,
+        "rno": 11,
+        "deadline": "22:20",
+        "axis": "篠崎 元志",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "12-11": {
+        "jcd": 12,
+        "rno": 11,
+        "deadline": "20:06",
+        "axis": "小芦 るり華",
         "verdict": "CAUTION",
         "phase": "事前"
       }
