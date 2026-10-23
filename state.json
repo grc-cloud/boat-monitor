@@ -1,46 +1,14 @@
 {
   "notified": [
-    "20261023-dailyreport"
+    "20261024-dailyreport"
   ],
   "cands": {
-    "20261023": {
-      "18-1": {
-        "jcd": 18,
-        "rno": 1,
-        "deadline": "08:43",
-        "axis": "松下 一也",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "18-2": {
-        "jcd": 18,
-        "rno": 2,
-        "deadline": "09:09",
-        "axis": "吉川 喜継",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "18-4": {
-        "jcd": 18,
-        "rno": 4,
-        "deadline": "10:01",
-        "axis": "西野 翔太",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "18-8": {
-        "jcd": 18,
-        "rno": 8,
-        "deadline": "12:03",
-        "axis": "山田 理央",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
+    "20261024": {
       "24-10": {
         "jcd": 24,
         "rno": 10,
         "deadline": "19:47",
-        "axis": "小野 生奈",
+        "axis": "浜先 真範",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -48,7 +16,7 @@
         "jcd": 24,
         "rno": 11,
         "deadline": "20:15",
-        "axis": "品川 二千翔",
+        "axis": "田頭 実",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -56,71 +24,103 @@
         "jcd": 24,
         "rno": 12,
         "deadline": "20:45",
-        "axis": "稲田 浩二",
+        "axis": "西村 拓也",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "21-4": {
         "jcd": 21,
         "rno": 4,
-        "deadline": "10:09",
-        "axis": "守屋 美穂",
+        "deadline": "10:01",
+        "axis": "古結 宏",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-5": {
+        "jcd": 21,
+        "rno": 5,
+        "deadline": "10:32",
+        "axis": "田中 和也",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-12": {
+        "jcd": 21,
+        "rno": 12,
+        "deadline": "14:19",
+        "axis": "岡村 慶太",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "13-5": {
         "jcd": 13,
         "rno": 5,
-        "deadline": "12:23",
-        "axis": "若林 義人",
+        "deadline": "12:50",
+        "axis": "内堀 学",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "13-6": {
         "jcd": 13,
         "rno": 6,
-        "deadline": "12:53",
-        "axis": "高倉 和士",
+        "deadline": "13:21",
+        "axis": "山田 亮太",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "13-8": {
         "jcd": 13,
         "rno": 8,
-        "deadline": "13:58",
-        "axis": "渡辺 浩司",
+        "deadline": "14:17",
+        "axis": "長尾 章平",
         "verdict": "CAUTION",
         "phase": "事前"
       },
       "22-1": {
         "jcd": 22,
         "rno": 1,
-        "deadline": "11:04",
-        "axis": "永井 彪也",
+        "deadline": "11:03",
+        "axis": "石渡 鉄兵",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "22-8": {
+      "22-12": {
         "jcd": 22,
-        "rno": 8,
-        "deadline": "14:24",
-        "axis": "川野 芽唯",
+        "rno": 12,
+        "deadline": "16:42",
+        "axis": "守田 俊介",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-5": {
+      "20-4": {
         "jcd": 20,
-        "rno": 5,
-        "deadline": "19:56",
+        "rno": 4,
+        "deadline": "19:30",
+        "axis": "北村 征嗣",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-6": {
+        "jcd": 20,
+        "rno": 6,
+        "deadline": "20:25",
         "axis": "下寺 秀和",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-7": {
+      "20-8": {
         "jcd": 20,
-        "rno": 7,
-        "deadline": "20:53",
-        "axis": "市橋 卓士",
+        "rno": 8,
+        "deadline": "21:17",
+        "axis": "烏野 賢太",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "20-9": {
+        "jcd": 20,
+        "rno": 9,
+        "deadline": "21:41",
+        "axis": "金田 諭",
         "verdict": "CAUTION",
         "phase": "事前"
       }
