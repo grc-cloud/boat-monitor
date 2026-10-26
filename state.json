@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261026-24-11-直前",
     "20261026-dailyreport",
     "20261026-review"
   ],
@@ -43,7 +44,7 @@
         "deadline": "20:07",
         "axis": "浜先 真範",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "21-3": {
         "jcd": 21,
