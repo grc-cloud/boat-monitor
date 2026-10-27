@@ -1,59 +1,32 @@
 {
   "notified": [
-    "20261027-15-10-直前",
-    "20261027-dailyreport",
-    "20261027-review"
+    "20261028-dailyreport"
   ],
   "cands": {
-    "20261027": {
-      "24-8": {
-        "jcd": 24,
-        "rno": 8,
-        "deadline": "18:39",
-        "axis": "田頭 実",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "16-11": {
+    "20261028": {
+      "16-5": {
         "jcd": 16,
-        "rno": 11,
-        "deadline": "15:48",
-        "axis": "今泉 友吾",
+        "rno": 5,
+        "deadline": "12:50",
+        "axis": "豊田 健士郎",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "22-7": {
+      "16-12": {
+        "jcd": 16,
+        "rno": 12,
+        "deadline": "16:30",
+        "axis": "辻 栄蔵",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "22-1": {
         "jcd": 22,
-        "rno": 7,
-        "deadline": "14:00",
-        "axis": "渡邉 俊介",
+        "rno": 1,
+        "deadline": "11:09",
+        "axis": "川野 芽唯",
         "verdict": "CAUTION",
         "phase": "事前"
-      },
-      "22-8": {
-        "jcd": 22,
-        "rno": 8,
-        "deadline": "14:25",
-        "axis": "中澤 和志",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-11": {
-        "jcd": 15,
-        "rno": 11,
-        "deadline": "19:57",
-        "axis": "嶋 義信",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-10": {
-        "jcd": 15,
-        "rno": 10,
-        "deadline": "19:24",
-        "axis": "篠崎 仁志",
-        "verdict": "SKIP",
-        "phase": "直前",
-        "partner": 2
       }
     }
   }
