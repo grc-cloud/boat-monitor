@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261027-15-10-直前",
     "20261027-dailyreport",
     "20261027-review"
   ],
@@ -44,6 +45,15 @@
         "axis": "嶋 義信",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "15-10": {
+        "jcd": 15,
+        "rno": 10,
+        "deadline": "19:24",
+        "axis": "篠崎 仁志",
+        "verdict": "SKIP",
+        "phase": "直前",
+        "partner": 2
       }
     }
   }
