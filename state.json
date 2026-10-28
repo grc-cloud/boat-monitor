@@ -1,15 +1,22 @@
 {
   "notified": [
-    "20261028-dailyreport",
-    "20261028-review"
+    "20261029-dailyreport"
   ],
   "cands": {
-    "20261028": {
-      "16-5": {
+    "20261029": {
+      "18-4": {
+        "jcd": 18,
+        "rno": 4,
+        "deadline": "10:09",
+        "axis": "須藤 博倫",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-8": {
         "jcd": 16,
-        "rno": 5,
-        "deadline": "12:50",
-        "axis": "豊田 健士郎",
+        "rno": 8,
+        "deadline": "14:25",
+        "axis": "作間 章",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -17,15 +24,31 @@
         "jcd": 16,
         "rno": 12,
         "deadline": "16:30",
-        "axis": "辻 栄蔵",
+        "axis": "原田 幸哉",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "22-1": {
-        "jcd": 22,
-        "rno": 1,
-        "deadline": "11:09",
-        "axis": "川野 芽唯",
+      "15-8": {
+        "jcd": 15,
+        "rno": 8,
+        "deadline": "18:23",
+        "axis": "嶋 義信",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "15-9": {
+        "jcd": 15,
+        "rno": 9,
+        "deadline": "18:54",
+        "axis": "麻生 慎介",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "15-10": {
+        "jcd": 15,
+        "rno": 10,
+        "deadline": "19:25",
+        "axis": "細川 裕子",
         "verdict": "CAUTION",
         "phase": "事前"
       }
