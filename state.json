@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261029-15-12-直前",
     "20261029-dailyreport",
     "20261029-review"
   ],
@@ -52,6 +53,15 @@
         "axis": "細川 裕子",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "15-12": {
+        "jcd": 15,
+        "rno": 12,
+        "deadline": "20:30",
+        "axis": "西丸 侑太朗",
+        "verdict": "SKIP",
+        "phase": "直前",
+        "partner": 3
       }
     }
   }
