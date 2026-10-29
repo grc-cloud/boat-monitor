@@ -1,67 +1,72 @@
 {
   "notified": [
-    "20261029-15-12-直前",
-    "20261029-dailyreport",
-    "20261029-review"
+    "20261030-dailyreport"
   ],
   "cands": {
-    "20261029": {
-      "18-4": {
+    "20261030": {
+      "18-2": {
         "jcd": 18,
-        "rno": 4,
-        "deadline": "10:09",
-        "axis": "須藤 博倫",
+        "rno": 2,
+        "deadline": "09:17",
+        "axis": "吉村 正明",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "16-8": {
+      "18-9": {
+        "jcd": 18,
+        "rno": 9,
+        "deadline": "12:42",
+        "axis": "馬袋 義則",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "19:40",
+        "axis": "渡邉 雄朗",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-3": {
         "jcd": 16,
-        "rno": 8,
-        "deadline": "14:25",
+        "rno": 3,
+        "deadline": "11:47",
+        "axis": "辻 栄蔵",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-6": {
+        "jcd": 16,
+        "rno": 6,
+        "deadline": "13:25",
+        "axis": "豊田 健士郎",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-7": {
+        "jcd": 16,
+        "rno": 7,
+        "deadline": "13:57",
+        "axis": "佐藤 翼",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "16-9": {
+        "jcd": 16,
+        "rno": 9,
+        "deadline": "14:56",
         "axis": "作間 章",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "16-12": {
-        "jcd": 16,
-        "rno": 12,
-        "deadline": "16:30",
-        "axis": "原田 幸哉",
+      "15-5": {
+        "jcd": 15,
+        "rno": 5,
+        "deadline": "17:01",
+        "axis": "伊藤 誠二",
         "verdict": "CAUTION",
         "phase": "事前"
-      },
-      "15-8": {
-        "jcd": 15,
-        "rno": 8,
-        "deadline": "18:23",
-        "axis": "嶋 義信",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-9": {
-        "jcd": 15,
-        "rno": 9,
-        "deadline": "18:54",
-        "axis": "麻生 慎介",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-10": {
-        "jcd": 15,
-        "rno": 10,
-        "deadline": "19:25",
-        "axis": "細川 裕子",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-12": {
-        "jcd": 15,
-        "rno": 12,
-        "deadline": "20:30",
-        "axis": "西丸 侑太朗",
-        "verdict": "SKIP",
-        "phase": "直前",
-        "partner": 3
       }
     }
   }
