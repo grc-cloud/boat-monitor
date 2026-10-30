@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261030-15-12-直前",
     "20261030-dailyreport",
     "20261030-review"
   ],
@@ -68,6 +69,15 @@
         "axis": "伊藤 誠二",
         "verdict": "CAUTION",
         "phase": "事前"
+      },
+      "15-12": {
+        "jcd": 15,
+        "rno": 12,
+        "deadline": "20:30",
+        "axis": "渡邉 翼",
+        "verdict": "SKIP",
+        "phase": "直前",
+        "partner": 2
       }
     }
   }
