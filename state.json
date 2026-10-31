@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261031-24-11-直前",
     "20261031-dailyreport",
     "20261031-review"
   ],
@@ -35,7 +36,7 @@
         "deadline": "20:16",
         "axis": "重成 一人",
         "verdict": "CAUTION",
-        "phase": "事前"
+        "phase": "直前"
       },
       "16-4": {
         "jcd": 16,
