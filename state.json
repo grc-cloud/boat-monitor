@@ -1,5 +1,6 @@
 {
   "notified": [
+    "20261102-19-11-直前",
     "20261102-dailyreport",
     "20261102-review"
   ],
@@ -50,8 +51,9 @@
         "rno": 11,
         "deadline": "22:18",
         "axis": "古賀 繁輝",
-        "verdict": "CAUTION",
-        "phase": "事前"
+        "verdict": "BUY",
+        "phase": "直前",
+        "partner": 4
       },
       "21-3": {
         "jcd": 21,
