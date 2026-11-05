@@ -1,31 +1,30 @@
 {
   "notified": [
-    "20261105-dailyreport",
-    "20261105-review"
+    "20261106-dailyreport"
   ],
   "cands": {
-    "20261105": {
-      "22-12": {
+    "20261106": {
+      "22-1": {
         "jcd": 22,
-        "rno": 12,
-        "deadline": "16:30",
-        "axis": "春園 功太",
+        "rno": 1,
+        "deadline": "10:43",
+        "axis": "川上 剛",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "15-7": {
-        "jcd": 15,
+      "22-6": {
+        "jcd": 22,
+        "rno": 6,
+        "deadline": "13:06",
+        "axis": "三浦 永理",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "22-7": {
+        "jcd": 22,
         "rno": 7,
-        "deadline": "18:04",
-        "axis": "烏野 賢太",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "15-8": {
-        "jcd": 15,
-        "rno": 8,
-        "deadline": "18:33",
-        "axis": "仲口 博崇",
+        "deadline": "13:41",
+        "axis": "川原 祐明",
         "verdict": "CAUTION",
         "phase": "事前"
       }
