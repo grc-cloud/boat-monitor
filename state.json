@@ -1,31 +1,62 @@
 {
   "notified": [
-    "20261107-dailyreport",
-    "20261107-review"
+    "20261108-dailyreport"
   ],
   "cands": {
-    "20261107": {
-      "19-5": {
-        "jcd": 19,
-        "rno": 5,
-        "deadline": "17:10",
-        "axis": "田中 信一郎",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
-      "19-8": {
-        "jcd": 19,
-        "rno": 8,
-        "deadline": "18:33",
-        "axis": "山口 裕二",
-        "verdict": "CAUTION",
-        "phase": "事前"
-      },
+    "20261108": {
       "19-10": {
         "jcd": 19,
         "rno": 10,
         "deadline": "19:36",
-        "axis": "山田 理央",
+        "axis": "山本 隆幸",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-11": {
+        "jcd": 19,
+        "rno": 11,
+        "deadline": "20:07",
+        "axis": "大場 恒季",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "19-12": {
+        "jcd": 19,
+        "rno": 12,
+        "deadline": "20:38",
+        "axis": "江夏 満",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-3": {
+        "jcd": 21,
+        "rno": 3,
+        "deadline": "09:39",
+        "axis": "新田 泰章",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-4": {
+        "jcd": 21,
+        "rno": 4,
+        "deadline": "10:05",
+        "axis": "末永 祐輝",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-5": {
+        "jcd": 21,
+        "rno": 5,
+        "deadline": "10:35",
+        "axis": "細川 裕子",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "21-11": {
+        "jcd": 21,
+        "rno": 11,
+        "deadline": "13:48",
+        "axis": "宗行 治哉",
         "verdict": "CAUTION",
         "phase": "事前"
       }
