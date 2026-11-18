@@ -1,15 +1,38 @@
 {
   "notified": [
-    "20261118-dailyreport",
-    "20261118-review"
+    "20261119-dailyreport"
   ],
   "cands": {
-    "20261118": {
-      "18-4": {
+    "20261119": {
+      "18-2": {
         "jcd": 18,
-        "rno": 4,
-        "deadline": "10:05",
-        "axis": "吉川 貴仁",
+        "rno": 2,
+        "deadline": "09:13",
+        "axis": "倉持 莉々",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "18-5": {
+        "jcd": 18,
+        "rno": 5,
+        "deadline": "10:34",
+        "axis": "山下 友貴",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "18-9": {
+        "jcd": 18,
+        "rno": 9,
+        "deadline": "12:42",
+        "axis": "大神 康司",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "18-11": {
+        "jcd": 18,
+        "rno": 11,
+        "deadline": "13:51",
+        "axis": "篠崎 仁志",
         "verdict": "CAUTION",
         "phase": "事前"
       },
@@ -17,15 +40,39 @@
         "jcd": 18,
         "rno": 12,
         "deadline": "14:26",
-        "axis": "篠崎 仁志",
+        "axis": "上野 真之介",
         "verdict": "CAUTION",
         "phase": "事前"
       },
-      "20-5": {
-        "jcd": 20,
-        "rno": 5,
-        "deadline": "17:01",
-        "axis": "君島 秀三",
+      "24-10": {
+        "jcd": 24,
+        "rno": 10,
+        "deadline": "19:36",
+        "axis": "竹井 奈美",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "24-11": {
+        "jcd": 24,
+        "rno": 11,
+        "deadline": "20:07",
+        "axis": "市川 哲也",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "22-1": {
+        "jcd": 22,
+        "rno": 1,
+        "deadline": "10:43",
+        "axis": "飛田 江己",
+        "verdict": "CAUTION",
+        "phase": "事前"
+      },
+      "22-8": {
+        "jcd": 22,
+        "rno": 8,
+        "deadline": "14:14",
+        "axis": "石本 裕武",
         "verdict": "CAUTION",
         "phase": "事前"
       }
